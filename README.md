@@ -9,9 +9,13 @@
 ## 🛠 Технологии
 
   **Backend:** Python, Django, Django REST Framework
+		
   **Базы данных:** SQLite, PostgreSQL, SQL  
+		
   **API:** REST API, JWT, HTTP, JSON  
+		
   **Тестирование:** pytest, unittest 
+		
   **Инструменты:** Git, GitHub, Postman, Linux basics  
 
 ## 🚀 Проекты
