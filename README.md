@@ -38,7 +38,7 @@ REST API для управления задачами с регистрацие�
   **Стек:** Python, Django, Django REST Framework, JWT, SQLite/PostgreSQL
 
 
-### [Blogicum](https://github.com/Anathematize1/Blogicum)
+### [Postly](https://github.com/Anathematize1/Postly)
 Веб-приложение для публикации постов и комментариев.
 
   **Что реализовано:**
